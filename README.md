@@ -1,4 +1,4 @@
-#Guess the country by its flag.
+## Guess the country by its flag.
 
 <img src="img/screenshot.PNG" width="600" height="400">
 
